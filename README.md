@@ -7,7 +7,7 @@
 
 ### Links:
   - https://vk.com/slinegg/
-  - https://www.facebook.com/dkosuhin/
+  - https://www.fb.com/dkosuhin/
   - https://t.me/sllem
 
 ### Discord:
