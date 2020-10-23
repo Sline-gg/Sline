@@ -2,7 +2,7 @@
 
 ### Here's some information about me.
 
-  - I can code in 3 different languages. Java, Python and Go.
+  - I can code in 3 different languages. Java, FrontEnd and Go.
   - I'm able to do plugin & bot jobs & programs for people who need help.
 
 ### Links:
