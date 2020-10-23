@@ -12,5 +12,7 @@
 
 ### Discord:
   - Sline#8888
+### My server: 
+  - https://discord.io/Sikron
   
 ### I'm pretty active on here, so my repos will be updated frequently!
