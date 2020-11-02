@@ -49,10 +49,4 @@
 <br />
 <br />
 
-# Stats:
-
-![GitHub metrics](https://metrics.lecoq.io/sliine)
-
-<br />
-
 ### I'm pretty active on here, so my repos will be updated frequently!
