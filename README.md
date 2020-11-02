@@ -2,8 +2,8 @@
 
 ### Here's some information about me.
 
-  - I can code in 1 different languages. Java
-  - I also use bash && shell scripting for administration systems and i little know Python, FronEnd :)
+  - I can code in different languages. Java
+  - I also use bash && shell scripting for administration systems :)
   - I'm able to do plugin & bot jobs & programs for people who need help.
 
 ### Links:
@@ -54,6 +54,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/sliine)
 
 <br />
-
 
 ### I'm pretty active on here, so my repos will be updated frequently!
