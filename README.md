@@ -30,23 +30,14 @@
 </a>
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 # Stats:
-
 ![GitHub metrics](https://metrics.lecoq.io/sliine)
 
 <br />
-
 <a href="https://github.com/sliine">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sliine&show_icons=true&theme=light&line_height=27" alt="Sline's github stats"/>
 </a>
-
 <br/>
   
 ### I'm pretty active on here, so my repos will be updated frequently!
