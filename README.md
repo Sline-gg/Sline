@@ -11,7 +11,7 @@
   - https://instagram.com/sline_dis/
   - https://t.me/sllem
   - https://t.me/sline_gg
-  - http://be.net/dimakosuhin
+  - http://be.net/sline
 
 ### Discord:
   - Sline#8888
