@@ -8,8 +8,10 @@
 
 ### Links:
   - https://vk.com/slinegg/
-  - https://www.fb.com/dkosuhin/
+  - https://instagram.com/sline_dis/
   - https://t.me/sllem
+  - https://t.me/sline_gg
+  - https://be.net/dimakosuhin
 
 ### Discord:
   - Sline#8888
