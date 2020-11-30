@@ -14,7 +14,7 @@
   - http://be.net/sline
 
 ### Discord:
-  - Sline#8888
+  - Sline#9922
 ### My server: 
   - https://discord.io/Sikron
 
