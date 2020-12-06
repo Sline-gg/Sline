@@ -7,12 +7,12 @@
   - I'm able to do plugin & bot jobs & programs for people who need help.
 
 ### Links:
-  - https://vk.com/slinegg/
-  - https://instagram.com/sline_dis/
-  - https://t.me/sllem
-  - https://t.me/sline_gg
-  - http://be.net/sline
+### Dev.to:
+  - https://dev.to/sliine
 
+### Telegram:
+  - https://t.me/sline_gg  
+  - https://t.me/sllem
 ### Discord:
   - Sline#9922
 ### My server: 
