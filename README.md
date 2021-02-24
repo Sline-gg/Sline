@@ -7,9 +7,11 @@
 - I'm sline, and I like pikachu. 
 - Pronouns: they/he.
 
-<a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
-
+# Buy me a coffee
+Buy Me a Coffee is a great way to publicly support developers. It's quick, easy, and your contribution is recorded so that others can see that you're a supporter of me. You can also choose to make your donation private. 
 I could use coffee to make content for you!.
+
+<a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
 <hr>
 
