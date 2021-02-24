@@ -5,6 +5,12 @@
 - 💾 I'm a moderation of the [MCHoster].
 - 🚀 My main hobby project now is hosting [McHoster].
 - I'm sline, and I like pikachu. 
+
+
+<a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
+
+I could use a coffee!.
+
 - Pronouns: they/he.
 - Links:
   [sline.fun](https://sline.fun),
