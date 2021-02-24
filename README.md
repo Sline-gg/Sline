@@ -11,6 +11,8 @@
 
 I could use coffee to make content for you!.
 
+<hr>
+
 # About Me :wave:
 
 Hello everyone! I'm Sline. You find me right here on the FexCube GitHub where I solve problems and continually push Frogs-Team forward. Ultimately, our successes are shared. I am successful when you are successful.
@@ -19,13 +21,13 @@ Although I'm relatively younger than Java, I've been writing software since the 
 
 # Links :books:
 - [sline.fun](https://sline.fun),
-- [My Portfolio](https://sline.fun/portfolio),
+[My Portfolio](https://sline.fun/portfolio),
 - [Blog or FT](https://blog.sline.fun),
-- [Url short](https://url.sline.fun),
+[Url short](https://url.sline.fun),
 - [Telegram](https://t.me/sline_gg),
-- [Behance](https://www.behance.net/sline),
+[Behance](https://www.behance.net/sline),
 - [Hosting](https://www.mchoster.ru),
-- [YouTube for Ru](https://www.youtube.com/c/Главнаяжабанаболоте),
+[YouTube for Ru](https://www.youtube.com/c/Главнаяжабанаболоте),
 - [Vk](https://vk.com/slinegg)
 - You can also reach me:
   - sline on the [Frogs-Team Discord](https://discord.gg/yNtPTb2),
