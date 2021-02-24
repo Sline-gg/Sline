@@ -1,9 +1,9 @@
 ### Hallo! 💃
 
-- I'm working on [FexCubes], [FexCubes git].
-- I'm a maintainer of [Frogs-Team].
-- I'm a moderation of the [MCHoster].
-- My main hobby project now is hosting [McHoster].
+- ✏ I'm working on [FexCubes], [FexCubes git].
+- 💻 I'm a maintainer of [Frogs-Team].
+- 💾 I'm a moderation of the [MCHoster].
+- 🚀 My main hobby project now is hosting [McHoster].
 - I'm sline, and I like pikachu. 
 - Pronouns: they/he.
 - Links:
