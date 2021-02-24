@@ -8,6 +8,7 @@
 - Pronouns: they/he.
 
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
+
 I could use coffee to make content for you!.
 
 # About Me :wave:
@@ -17,15 +18,15 @@ Hello everyone! I'm Sline. You find me right here on the FexCube GitHub where I 
 Although I'm relatively younger than Java, I've been writing software since the 2021s. I have devoted most of my career to creating products for the Minecraft game. Recently, I have been passing on my experience to other people.<hr>
 
 # Links :books:
-  [sline.fun](https://sline.fun),
-  [My Portfolio](https://sline.fun/portfolio),
-  [My Service](https://blog.sline.fun),
-  [Url short](https://url.sline.fun),
-  [Telegram](https://t.me/sline_gg),
-  [Behance](https://www.behance.net/sline),
-  [Hosting](https://www.mchoster.ru),
-  [YouTube for Ru](https://www.youtube.com/c/Главнаяжабанаболоте),
-  [Vk](https://vk.com/slinegg)
+- [sline.fun](https://sline.fun),
+- [My Portfolio](https://sline.fun/portfolio),
+- [Blog or FT](https://blog.sline.fun),
+- [Url short](https://url.sline.fun),
+- [Telegram](https://t.me/sline_gg),
+- [Behance](https://www.behance.net/sline),
+- [Hosting](https://www.mchoster.ru),
+- [YouTube for Ru](https://www.youtube.com/c/Главнаяжабанаболоте),
+- [Vk](https://vk.com/slinegg)
 - You can also reach me:
   - sline on the [Frogs-Team Discord](https://discord.gg/yNtPTb2),
     [Telegram Channel](https://t.me/sline_bg),
