@@ -1,22 +1,20 @@
-### Hallo! 💃
+### Hey this is information or me! 💃
 
 - ✏ I'm working on [FexCubes], [FexCubes git].
 - 💻 I'm a maintainer of [Frogs-Team].
-- 💾 I'm a moderation of the [MCHoster].
-- 🚀 My main hobby project now is hosting [McHoster].
+- 💾 I'm a moderation of the [Secret].
+- 🚀 My main hobby project now is hosting [Secret].
 - I'm sline, and I like pikachu. 
 
 <hr>
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
-I could use a coffee!.
 
 # About Me :wave:
 
-Hi there!  I'm Sline.  You'll find me right here, on the  GitHub, solving problems and continuously pushing  forward.  I've dedicated my days, nights, and weekends to the project and PySimpleGUI users.  Our successes are ultimately shared.  I'm successful when you're successful.  
+Hello everyone! I'm Sline. You find me right here on the FexCube GitHub where I solve problems and continually push Frogs-Team forward. Ultimately, our successes are shared. I am successful when you are successful.
 
-While a relative newcomer to , I've been writing software since the 70s.  The majority of my career was spent creating products in . I bring to  the same professionalism and dedication as I did to the corporate products I developed. You are my customers now.
-<hr>
+Although I'm relatively younger than Java, I've been writing software since the 2021s. I have devoted most of my career to creating products for the Minecraft game. Recently, I have been passing on my experience to other people.<hr>
 
 - Pronouns: they/he.
 - Links:
@@ -37,5 +35,5 @@ While a relative newcomer to , I've been writing software since the 70s.  The ma
 
 [FexCubes]: https://fexdf.sline.fun
 [FexCubes git]: https://github.com/fcubes
-[MCHoster]: https://mchoster.ru
+[Secret]: https://mchoster.ru
 [Frogs-Team]: https://discord.gg/yNtPTb2
