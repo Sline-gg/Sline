@@ -1,6 +1,6 @@
 ### Hallo! 💃
 
-- I'm working on [FCubes].
+- I'm working on [FexCubes], [FexCubes git].
 - I'm a maintainer of [Frogs-Team].
 - I'm a moderation of the [MCHoster].
 - My main hobby project now is hosting [McHoster].
@@ -8,7 +8,8 @@
 - Pronouns: they/he.
 - Links:
   [sline.fun](https://sline.fun),
-  [Blog](https://blog.sline.fun),
+  [My Portfolio](https://sline.fun/portfolio),
+  [My Service](https://blog.sline.fun),
   [Url short](https://url.sline.fun),
   [Telegram](https://t.me/sline_gg),
   [Behance](https://www.behance.net/sline),
@@ -21,6 +22,7 @@
   - slinesline.fun
 - Support me on [Patreon](https://patreon.com/sline).
 
-[FCubes]: https://fexdf.sline.fun
+[FexCubes]: https://fexdf.sline.fun
+[FexCubes git]: https://github.com/fcubes
 [MCHoster]: https://mchoster.ru
 [Frogs-Team]: https://discord.gg/yNtPTb2
