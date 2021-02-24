@@ -1,4 +1,3 @@
-<hr>
 ### Hey this is information or me! 💃
 
 - ✏ I'm working on [FexCubes], [FexCubes git].
@@ -8,11 +7,8 @@
 - I'm sline, and I like pikachu. 
 - Pronouns: they/he.
 
-<hr>
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
-
 I could use coffee to make content for you!.
-<hr>
 
 # About Me :wave:
 
