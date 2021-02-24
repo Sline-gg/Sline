@@ -13,12 +13,6 @@ I could use coffee to make content for you!.
 
 <hr>
 
-# About Me :wave:
-
-Hello everyone! I'm Sline. You find me right here on the FexCube GitHub where I solve problems and continually push Frogs-Team forward. Ultimately, our successes are shared. I am successful when you are successful.
-
-Although I'm relatively younger than Java, I've been writing software since the 2021s. I have devoted most of my career to creating products for the Minecraft game. Recently, I have been passing on my experience to other people.<hr>
-
 # Links :books:
 - [sline.fun](https://sline.fun),
 [My Portfolio](https://sline.fun/portfolio),
