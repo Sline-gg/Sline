@@ -6,10 +6,17 @@
 - 🚀 My main hobby project now is hosting [McHoster].
 - I'm sline, and I like pikachu. 
 
-
-<a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" width="217px" ></a>
+<hr>
+<a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
 I could use a coffee!.
+
+# About Me :wave:
+
+Hi there!  I'm Sline.  You'll find me right here, on the  GitHub, solving problems and continuously pushing  forward.  I've dedicated my days, nights, and weekends to the project and PySimpleGUI users.  Our successes are ultimately shared.  I'm successful when you're successful.  
+
+While a relative newcomer to , I've been writing software since the 70s.  The majority of my career was spent creating products in . I bring to  the same professionalism and dedication as I did to the corporate products I developed. You are my customers now.
+<hr>
 
 - Pronouns: they/he.
 - Links:
