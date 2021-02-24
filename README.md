@@ -1,3 +1,4 @@
+<hr>
 ### Hey this is information or me! 💃
 
 - ✏ I'm working on [FexCubes], [FexCubes git].
@@ -5,10 +6,13 @@
 - 💾 I'm a moderation of the [Secret].
 - 🚀 My main hobby project now is hosting [Secret].
 - I'm sline, and I like pikachu. 
+- Pronouns: they/he.
 
 <hr>
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
+I could use coffee to make content for you!.
+<hr>
 
 # About Me :wave:
 
@@ -16,8 +20,8 @@ Hello everyone! I'm Sline. You find me right here on the FexCube GitHub where I 
 
 Although I'm relatively younger than Java, I've been writing software since the 2021s. I have devoted most of my career to creating products for the Minecraft game. Recently, I have been passing on my experience to other people.<hr>
 
-- Pronouns: they/he.
-- Links:
+<hr>
+# Links :books:
   [sline.fun](https://sline.fun),
   [My Portfolio](https://sline.fun/portfolio),
   [My Service](https://blog.sline.fun),
