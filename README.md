@@ -23,3 +23,4 @@
 
 [FCubes]: https://fexdf.sline.fun
 [MCHoster]: https://mchoster.ru
+[Frogs-Team]: https://discord.gg/yNtPTb2
