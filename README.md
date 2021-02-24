@@ -16,13 +16,13 @@ I could use coffee to make content for you!.
 # Links :books:
 - [sline.fun](https://sline.fun),
 [My Portfolio](https://sline.fun/portfolio),
-- [Blog or FT](https://blog.sline.fun),
+[Blog or FT](https://blog.sline.fun),
 [Url short](https://url.sline.fun),
 - [Telegram](https://t.me/sline_gg),
 [Behance](https://www.behance.net/sline),
-- [Hosting](https://www.mchoster.ru),
+[Hosting](https://www.mchoster.ru),
 [YouTube for Ru](https://www.youtube.com/c/Главнаяжабанаболоте),
-- [Vk](https://vk.com/slinegg)
+[Vk](https://vk.com/slinegg)
 - You can also reach me:
   - sline on the [Frogs-Team Discord](https://discord.gg/yNtPTb2),
     [Telegram Channel](https://t.me/sline_bg),
