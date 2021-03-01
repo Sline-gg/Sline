@@ -7,6 +7,10 @@
 - I'm sline, and I like pikachu. 
 - Pronouns: they/he.
 
+# Guestbook
+
+✒ Sign my guestbook 📖 at [sliine/sliine#1](https://github.com/sliine/sliine/issues/1)
+
 # Buy me a coffee
 Buy Me a Coffee is a great way to publicly support developers. It's quick, easy, and your contribution is recorded so that others can see that you're a supporter of me. You can also choose to make your donation private. 
 I could use coffee to make content for you!.
