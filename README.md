@@ -1,12 +1,15 @@
 <img align="left" width="240" src="https://i.imgur.com/3JAGrcQ.png"> <samp> ✨ hi! <br>
 ### Hey this is information or me! 💃
 
-- ✏ I'm working on [FexCubes], [FexCubes git].
-- 💻 I'm a maintainer of [Frogs-Team].
-- 💾 I'm a moderation of the [Secret].
-- 🚀 My main hobby project now is hosting [Secret].
-- I'm sline, and I like pikachu. 
-- Pronouns: they/he.
+✏ I'm working on [FexCubes], [FexCubes git]. <br>
+💻 I'm a maintainer of [Frogs-Team]. <br>
+💾 I'm a moderation of the [Secret]. <br>
+🚀 My main hobby project now is hosting [Secret]. <br> 
+I'm sline, and I like pikachu && frog. <br> 
+Pronouns: they/he. <br>
+🎧 listening to: <br> </samp>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2mpy44bxvgc39bo0j7c3k8ja&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
+<br><br><br>
 
 # Buy me a coffee
 Buy Me a Coffee is a great way to publicly support developers. It's quick, easy, and your contribution is recorded so that others can see that you're a supporter of me. You can also choose to make your donation private. 
