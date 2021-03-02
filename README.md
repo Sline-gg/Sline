@@ -19,7 +19,6 @@ I could use coffee to make content for you!.
 
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
-<hr>
 <!---# Links :books:
  [sline.fun](https://sline.fun),
 [My Portfolio](https://sline.fun/portfolio),
