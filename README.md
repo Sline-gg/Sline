@@ -18,9 +18,9 @@ I could use coffee to make content for you!.
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
 <hr>
-
-# Links :books:
-- [sline.fun](https://sline.fun),
+<samp><img src="https://img.icons8.com/color/2x/twitter.png" width="23">find me on twitter [@](https://www.twitter.com/) 💭
+<!---# Links :books:
+ [sline.fun](https://sline.fun),
 [My Portfolio](https://sline.fun/portfolio),
 [Blog or FT](https://blog.sline.fun),
 [Url short](https://url.sline.fun),
@@ -33,7 +33,7 @@ I could use coffee to make content for you!.
   - sline on the [Frogs-Team Discord](https://discord.gg/yNtPTb2),
     [Telegram Channel](https://t.me/sline_bg),
   - slinesline.fun
-- Support me on [Patreon](https://patreon.com/sline).
+- Support me on [Patreon](https://patreon.com/sline).-->
 
 [FexCubes]: https://fexdf.sline.fun
 [FexCubes git]: https://github.com/fcubes
