@@ -1,3 +1,4 @@
+<img align="left" width="240" src="https://i.imgur.com/H6PbSgI.jpg"> <samp> ✨ hi! <br>
 ### Hey this is information or me! 💃
 
 - ✏ I'm working on [FexCubes], [FexCubes git].
