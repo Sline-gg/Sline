@@ -1,4 +1,4 @@
-<img align="left" width="240" src="https://i.imgur.com/3JAGrcQ.png"> <samp> ✨ hi! <br>
+<img align="left" width="240" src="https://i.imgur.com/3JAGrcQ.png"> <samp> <br>
 ### Hey this is information or me! 💃
 
 ✏ I'm working on [FexCubes], [FexCubes git]. <br>
