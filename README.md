@@ -1,10 +1,8 @@
 <img align="left" width="240" src="https://i.imgur.com/3JAGrcQ.png"> <samp> <br>
 ### Hey this is information or me! 💃
 
-✏ I'm working on [FexCubes], [FexCubes git]. <br>
+✏ I'm working on [MCHoster], []. <br>
 💻 I'm a maintainer of [Frogs-Team]. <br>
-💾 I'm a moderation of the [Secret]. <br>
-🚀 My main hobby project now is hosting [Secret]. <br> 
 I'm sline, and I like pikachu && frog. <br> 
 Pronouns: they/he. <br>
 🎧 listening to: <br> </samp>
@@ -19,7 +17,5 @@ I could use coffee to make content for you!.
 
 <a href="https://www.buymeacoffee.com/sline" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-white.png" alt="Buy Me A Coffee" width="217px" ></a>
 
-[FexCubes]: https://fexdf.sline.fun
-[FexCubes git]: https://github.com/fcubes
-[Secret]: https://mchoster.ru
+[MCHoster]: https://mchoster.ru
 [Frogs-Team]: https://discord.gg/yNtPTb2
