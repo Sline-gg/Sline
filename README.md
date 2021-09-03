@@ -1,52 +1,22 @@
+### Hey 👋, I'm [Sline!]
 
-<!--
-**sachincool/sachincool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://t.me/slinedev">
+  <img align="left" alt="My Blogs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/in/slinegg/">
+  <img align="left" alt="My Life" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://discord.gg/xHHGPDEDFW">
+  <img align="left" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-<img src=https://github.com/sliine/sliine/raw/output/github-contribution-grid-snake.svg alt="Contrib Snake" />
-  </div>
-  
-  
-### <div align="center">I'm Harshit, an Infrastructure Magician 👨‍💻 I fiddle with technology for fun and profits 🚀  </div>  
+Hi, I'm Dmitry Kosukhin, a Java Developer 🚀 from Ukraine, currently, I'm a Owner at 🙍🏽‍♂️ [@mchoster](https://www.mchoster.ru/).
 
-<div align="center">
-                  
-                  
-  <i>🔭 I enjoy networking with VPN's and deleting random pods from my k8s cluster (non-sts only) </i>
+<br/>
+<br/>
 
-   <i>🌱 I’m currently in a CrashLoopBackOff </i>
+  <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-  <i> ❓ Ask me about anything related to Web-Security, K8s, Networking, Linux, SRE </i>
-
-  <i> ⚡ Fun fact: I use vim over emacs </i>
-  </div>
-
-</br>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sliine&show_icons=true&theme=nightowl&custom_title=Espresso_Depresso&count_private=true"/>
-
-</br>
-<img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Jokes Card" style="vertical-align:middle;margin:50px 0px" />
-
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sliine&theme=nightowl"/>
-<br/>  
-
-</div>
-  
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=sachincool&&style=flat-square" align="center" />
-</div>  
