@@ -1,14 +1,6 @@
-### Hey 👋, I'm [Sline!]
-
-<a href="https://t.me/slinedev">
-  <img align="left" alt="My Blogs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/in/slinegg/">
-  <img align="left" alt="My Life" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://discord.gg/xHHGPDEDFW">
-  <img align="left" alt="My Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Dima Kosukhin</h1>
+<h3 align="center">DevOps Engineer, Support Engineer @ KARASIQ.SPACE</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sliine" alt="sliine" /> </p>
 
 <br />
 <br />
